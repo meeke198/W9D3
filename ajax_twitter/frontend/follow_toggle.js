@@ -5,3 +5,5 @@ class FollowToggle {
         this.followState = $el.attr("initial-follow-state");
     }
 }
+
+module.exports = FollowToggle;
